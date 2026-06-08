@@ -136,7 +136,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "Kleefeld´s Bot",
       // Footer icon URL (null = no icon).
       icon: null,
     },
@@ -201,7 +201,7 @@ export const botConfig = {
   // =========================
   tickets: {
     // Category ID where new tickets are created (null = no forced category).
-    defaultCategory: null,
+    defaultCategory: 1513510189041455179,
 
     // Role IDs allowed to manage/support tickets.
     supportRoles: [],
